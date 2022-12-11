@@ -1,5 +1,5 @@
 <template>
-  <div class="px-12% grid grid-cols-3 gap-8">
+  <div class="grid grid-cols-3 gap-8">
     <div
       v-for="i in 10"
       :key="i"
